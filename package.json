@@ -8,9 +8,10 @@
   },
   "author": "NCBI",
   "license": "SEE LICENSE IN LICENSE.md",
-  "devDependencies": {
-    "gitbook-api": "^2.1.3",
-    "gitbook-cli": "^2.3.0",
+  "dependencies": {
     "gitbook-plugin-theme-ncbi": "^0.0.1"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
   }
 }
